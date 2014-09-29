@@ -1,0 +1,4 @@
+openid
+======
+
+Short OpenID redirects
